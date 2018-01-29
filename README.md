@@ -1,2 +1,3 @@
-# Java-trivial-codes
-Java trivial samples
+Java Samples
+<h1>Swing telnet client</h1> 
+<img src="screenshot.png">
