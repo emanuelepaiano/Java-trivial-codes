@@ -1,0 +1,56 @@
+/**
+ * Copyright 2017 Emanuele Paiano
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *     
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * */
+
+package org.telnet.gui;
+
+
+/**
+ * GUI static labels
+ * 
+ * */
+public class Labels {
+	
+	/**
+	 * label for connection button status 
+	 * */
+	public static String ConnectBtn="Connect";
+	
+	/**
+	 * label for disconnection button status 
+	 * */
+	public static String DisconnectBtn="Disconnect";
+	
+	
+
+	/**
+	 * label for SEND button 
+	 * */
+	public static String SendBtn="Send";
+	
+
+	/**
+	 * label for host textbox 
+	 * */
+	public static String HostLbl="Host:";
+	
+	
+	/**
+	 * label for port textbox 
+	 * */
+	public static String PortLbl="Port:";
+
+}
